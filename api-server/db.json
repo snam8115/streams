@@ -1,0 +1,42 @@
+{
+  "streams": [
+    {
+      "title": "My First Stream",
+      "description": "This is my First Stream regarding coding",
+      "id": 1
+    },
+    {
+      "title": "Computer Programming ",
+      "description": "This stream is related to computer programs.",
+      "id": 2
+    },
+    {
+      "title": "Hello",
+      "description": "Hello Stream",
+      "id": 3
+    },
+    {
+      "title": "Form Reset",
+      "description": "Form reset after submission handled now",
+      "userId": "104974578410613763869",
+      "id": 7
+    },
+    {
+      "title": "Dispatch reset",
+      "description": "From action creator",
+      "userId": "104974578410613763869",
+      "id": 10
+    },
+    {
+      "title": "Router stream edit",
+      "description": "Testing browserrouter",
+      "userId": "104974578410613763869",
+      "id": 11
+    },
+    {
+      "title": "Testing create edited",
+      "description": "Creats stream edited",
+      "id": 14
+    }
+  ]
+}
